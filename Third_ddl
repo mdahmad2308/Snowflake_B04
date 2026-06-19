@@ -1,0 +1,6 @@
+Create table My_Git_TBL
+(
+id int,
+salary int,
+address varchar(10)
+);
